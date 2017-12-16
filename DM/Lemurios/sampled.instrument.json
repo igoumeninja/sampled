@@ -7,6 +7,7 @@
     "type": "Drum machine",
     "samples": "https://oramics.github.io/sampled/DM/LM-2/samples/",
     "files": [
+        "cabasas.wav",
         "cabasa.wav",
         "108.wav",
         "clap.wav",
